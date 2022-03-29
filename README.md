@@ -1,4 +1,4 @@
-#Descripción#
+Descripción
 
 services: A partir de aqui empiezan las declaraciones.
 
