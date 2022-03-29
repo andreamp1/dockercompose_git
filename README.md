@@ -1,5 +1,3 @@
-# dockercompose_git
-
 #Descripción#
 
 services: A partir de aqui empiezan las declaraciones.
